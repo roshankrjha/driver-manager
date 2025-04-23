@@ -11,4 +11,4 @@ A lightweight Python utility to fetch the installed Chrome version and get the m
 ## Installation
 
 ```bash
-pip install chromedriver-manager
+pip install driver-manager
